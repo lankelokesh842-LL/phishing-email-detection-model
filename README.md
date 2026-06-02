@@ -56,3 +56,5 @@ Enter any email content when prompted and the model will predict whether it is a
 * Confusion Matrix
 * Classification Report
 * Email Classification Prediction
+Dataset used:
+https://www.kaggle.com/datasets/xxxxx/phishing-email-dataset
